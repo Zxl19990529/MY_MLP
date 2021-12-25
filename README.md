@@ -59,16 +59,16 @@ Then the training and testing results of FCN-B-t on Task 2 is generated in ```mn
 ### Visualization for Task 1
 <table>
     <tr>
-        <td><center><img src="gifs\fcn_s_r_1.gif" width="230"/><br><center>FCN-S-r</center></center></td>
-        <td><center><img src="gifs\fcn_b_r_1.gif" width="230"/><br><center>FCN-B-r</center></center></td>
-        <td><center><img src="gifs\fcn_l_r_1.gif" width="230"/><br><center>FCN-L-r</center></center></td>
+        <td><center><img src="gifs\fcn_s_r_1.gif" width="270"/><br><center>FCN-S-r</center></center></td>
+        <td><center><img src="gifs\fcn_b_r_1.gif" width="270"/><br><center>FCN-B-r</center></center></td>
+        <td><center><img src="gifs\fcn_l_r_1.gif" width="270"/><br><center>FCN-L-r</center></center></td>
     </tr>
 </table>
 
 <table>
     <tr>
-        <td><center><img src="gifs\fcn_s_t_1.gif" width="230"/><br><center>FCN-S-t</center></center></td>
-        <td><center><img src="gifs\fcn_b_t_1.gif" width="230"/><br><center>FCN-B-t</center></center></td>
-        <td><center><img src="gifs\fcn_l_t_1.gif" width="230"/><br><center>FCN-L-t</center></center></td>
+        <td><center><img src="gifs\fcn_s_t_1.gif" width="270"/><br><center>FCN-S-t</center></center></td>
+        <td><center><img src="gifs\fcn_b_t_1.gif" width="270"/><br><center>FCN-B-t</center></center></td>
+        <td><center><img src="gifs\fcn_l_t_1.gif" width="270"/><br><center>FCN-L-t</center></center></td>
     </tr>
 </table>
